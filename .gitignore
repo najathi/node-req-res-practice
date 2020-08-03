@@ -1,3 +1,4 @@
 /node_modules
 .idea
 users.txt
+package-lock.json
